@@ -1,12 +1,13 @@
 ![ContextKit Logo](https://github.com/FlineDev/ContextKit/blob/main/Logo.png?raw=true)
 
-<p align="center">
-    <strong>Stop fighting context limits. Stop micro-managing Claude Code. Start building features systematically and make AI produce closer to production-ready code on first try.</strong>
-</p>
+> [!IMPORTANT]
+> **ContextKit is no longer actively maintained.** Its planning features have evolved into [📋 PlanKit](https://github.com/FlineDev/PlanKit) — a lighter, plugin-based system that integrates directly with Claude Code's plugin marketplace. For quick plans without a full planning system, use Claude Code's built-in Plan mode (`/plan`).
+>
+> **Migration:** Install PlanKit via the [🧩 Plugin Marketplace](https://github.com/FlineDev/Marketplace) and run `/plan-kit:init` to set up your project. PlanKit covers Ideas → Roadmap → Steps → Done with a cleaner architecture and automatic archiving.
 
 ---
 
-<p align="center" style="color: #666;">
+<p align="center">
     <strong>Quick Navigation</strong><br>
     <a href="#-get-started">Get started</a> • <a href="#%EF%B8%8F-how-it-works">How it works</a> • <a href="#-commands-overview">Commands</a> • <a href="#-universal-but-opinionated">Universal platform support</a> • <a href="#%EF%B8%8F-comparison-with-other-ai-systems">Comparison</a>
 </p>
